@@ -1452,6 +1452,12 @@ input, select, textarea {
 				line-height: 4.75rem;
 			}
 
+			.logo img{
+				width: 4.65rem;
+				height: 4.65rem;
+				line-height: 4.65rem;
+			}
+
 				#header .logo .icon:before {
 					font-size: 1.75rem;
 				}
